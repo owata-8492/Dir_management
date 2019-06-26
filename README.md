@@ -2,8 +2,8 @@
 名簿管理プログラム
 # 名簿管理プログラム
 ## はじめに
-+ Rustで書く．
-+ http://www.suri.cs.okayama-u.ac.jp/~niitsuma/lect/p2/
++ Rust勉強会の課題．名簿管理プログラムをRustで作成． https://scrapbox.io/nomlab/Rust%E5%8B%89%E5%BC%B7%E4%BC%9A
++ 元となった名簿管理プログラム(C言語)の概要 http://www.suri.cs.okayama-u.ac.jp/~niitsuma/lect/p2/
 
 ## 基本仕様
 + 標準入力から「ID,氏名,年月日,住所,備考」からなるコンマ区切り形式(CSV形式)の名簿データを受け付けて， それらをメモリ中に登録する
