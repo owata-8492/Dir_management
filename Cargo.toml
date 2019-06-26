@@ -1,0 +1,7 @@
+[package]
+name = "dir_management"
+version = "0.1.0"
+authors = ["owata-8492 <icorif0080@gmail.com>"]
+edition = "2019"
+
+[dependencies]
